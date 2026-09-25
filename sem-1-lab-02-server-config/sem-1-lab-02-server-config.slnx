@@ -1,4 +1,4 @@
 <Solution>
   <Project Path="config/sem-1-lab-02-server-config.csproj" />
-  <Project Path="test/test.csproj" />
+  <Project Path="test/test.csproj" Id="9d1f9a78-d8f0-4a87-81f4-56d14392faf9" />
 </Solution>
