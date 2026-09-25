@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="config/sem-1-lab-02-server-config.csproj" />
+  <Project Path="test/test.csproj" />
+</Solution>
