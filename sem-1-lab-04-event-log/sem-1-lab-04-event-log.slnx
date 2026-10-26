@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../sem-1-lab-05-save-manager/sem-1-lab-05-save-manager.csproj" />
+  <Project Path="sem-1-lab-04-event-log/sem-1-lab-04-event-log.csproj" />
+  <Project Path="test/test.csproj" />
+</Solution>
